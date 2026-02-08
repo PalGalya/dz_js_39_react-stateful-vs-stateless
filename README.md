@@ -88,7 +88,3 @@ dz_js21/
 
 4. Відкрийте браузер за адресою `http://localhost:5173`
 
-## Репозиторій та демо
-
-- **GitHub Репозиторій**: [https://github.com/PalGalya/dz_js21](https://github.com/PalGalya/dz_js21)
-- **Vercel Демо**: [https://dz-js21.vercel.app](https://dz-js21.vercel.app)
